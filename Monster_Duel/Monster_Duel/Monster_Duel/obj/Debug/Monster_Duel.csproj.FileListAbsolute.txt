@@ -1,0 +1,8 @@
+D:\Zohreh\Final_Lasalle\Winter-2023\420-CT2-AS C2_Object Oriented Programming concepts\HelloWorld\Monster_Duel\Monster_Duel\bin\Debug\Monster_Duel.exe.config
+D:\Zohreh\Final_Lasalle\Winter-2023\420-CT2-AS C2_Object Oriented Programming concepts\HelloWorld\Monster_Duel\Monster_Duel\bin\Debug\Monster_Duel.exe
+D:\Zohreh\Final_Lasalle\Winter-2023\420-CT2-AS C2_Object Oriented Programming concepts\HelloWorld\Monster_Duel\Monster_Duel\bin\Debug\Monster_Duel.pdb
+D:\Zohreh\Final_Lasalle\Winter-2023\420-CT2-AS C2_Object Oriented Programming concepts\HelloWorld\Monster_Duel\Monster_Duel\obj\Debug\Monster_Duel.csproj.AssemblyReference.cache
+D:\Zohreh\Final_Lasalle\Winter-2023\420-CT2-AS C2_Object Oriented Programming concepts\HelloWorld\Monster_Duel\Monster_Duel\obj\Debug\Monster_Duel.csproj.SuggestedBindingRedirects.cache
+D:\Zohreh\Final_Lasalle\Winter-2023\420-CT2-AS C2_Object Oriented Programming concepts\HelloWorld\Monster_Duel\Monster_Duel\obj\Debug\Monster_Duel.csproj.CoreCompileInputs.cache
+D:\Zohreh\Final_Lasalle\Winter-2023\420-CT2-AS C2_Object Oriented Programming concepts\HelloWorld\Monster_Duel\Monster_Duel\obj\Debug\Monster_Duel.exe
+D:\Zohreh\Final_Lasalle\Winter-2023\420-CT2-AS C2_Object Oriented Programming concepts\HelloWorld\Monster_Duel\Monster_Duel\obj\Debug\Monster_Duel.pdb
